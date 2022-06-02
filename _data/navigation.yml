@@ -1,12 +1,31 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+languages: 
+- language: "fr" 
+  links:
+  - title: "Programme"
+    url: /fr_programme
+  - title: "Transport"
+    url: /fr_transport
+  - title: "Logement"
+    url: /fr_logement
+  - title: "Liste de mariage"
+    url: /fr_liste/
+  - title: "FAQ"
+    url: /fr_faq/
+  - title: "en"
+    url: /en_home
+- language: "en" 
+  links:
+  - title: "Program"
+    url: /en_program
+  - title: "Travel"
+    url: /en_transport
+  - title: "Accommodation"
+    url: /en_accom
+  - title: "Wedding list"
+    url: /en_list
+  - title: "FAQ"
+    url: /en_faq
+  - title: "fr"
+    url: /
