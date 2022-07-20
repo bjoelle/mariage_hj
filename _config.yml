@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Hoel & Joëlle"
 description              :
 url                      : "https://mariage_hj.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : /fr_home
 repository               : bjoelle/mariage_hj.github.io.git
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -189,7 +189,7 @@ sass:
 
 # Outputting
 lang: fr 
-languages: ["fr", "en"] 
+languages: ["fr"] 
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
