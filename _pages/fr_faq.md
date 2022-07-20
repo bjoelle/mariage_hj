@@ -6,7 +6,7 @@ permalink: /fr_faq
 ---
 
 *Comment s'habiller ?*
-Il n'y a pas de demandes particulières ! Néanmoins les robes vertes devraient être évitées.
+Il n'y a pas de demandes particuliÃ¨res ! NÃ©anmoins les robes vertes devraient Ãªtre Ã©vitÃ©es.
 
 *Y a t-il une liste de mariage ?*
-Votre présence est la seule chose dont nous avons besoin ! Cependant si vous le souhaitez vous pouvez nous faire un cadeau à cette [adresse](/link_here).
+Votre prÃ©sence est la seule chose dont nous avons besoin ! Cependant si vous le souhaitez vous pouvez nous faire un cadeau Ã  cette [adresse](/link_here).

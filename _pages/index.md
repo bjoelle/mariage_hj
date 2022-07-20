@@ -5,5 +5,5 @@ lang: fr
 permalink: /
 ---
 
-Hoel LE GALLO et Joëlle BARIDO-SOTTANI ont le plaisir de vous convier à leur mariage !
-Il se déroulera le samedi 24 septembre 2022, à la Ferme du Couvent (Bréau, 77) à partir de 15h.
+Hoel LE GALLO et JoÃ«lle BARIDO-SOTTANI ont le plaisir de vous convier Ã  leur mariage !
+Il se dÃ©roulera le samedi 24 septembre 2022, Ã  la Ferme du Couvent (BrÃ©au, 77) Ã  partir de 15h.

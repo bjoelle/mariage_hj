@@ -8,12 +8,12 @@ permalink: /fr_programme
 # Programme du samedi 24/09
 
  * 15h - Ouverture et accueil
- * 16h - Cérémonie laïque et voeux
+ * 16h - CÃ©rÃ©monie laÃ¯que et voeux
  * 17h - Cocktail & boissons
- * 19h - Dîner
- * 22h - Soirée dansante
- * 4h - Fin de la soirée
+ * 19h - DÃ®ner
+ * 22h - SoirÃ©e dansante
+ * 4h - Fin de la soirÃ©e
  
 # Dimanche 25/09
 
-Pour ceux qui le souhaitent, un brunch sera servi à partir de 10h à la Ferme du Couvent.
+Pour ceux qui le souhaitent, un brunch sera servi Ã  partir de 10h Ã  la Ferme du Couvent.
