@@ -11,7 +11,7 @@ main:
 #  - title: "Liste de mariage"
 #    url: /fr_liste/
   - title: "FAQ"
-    url: /fr_faq/
+    url: /fr_faq
   - title: "English version"
     url: /en_home
 - language: "en" 
