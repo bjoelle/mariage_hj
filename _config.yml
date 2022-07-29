@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Hoel & Joëlle"
 description              :
 url                      : "https://mariage_hj.github.io"
-baseurl                  : /fr_home
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : bjoelle/mariage_hj.github.io.git
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
