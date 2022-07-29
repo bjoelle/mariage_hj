@@ -11,9 +11,9 @@ permalink: /fr_programme
  * 16h - Cérémonie laïque et voeux
  * 17h - Cocktail & boissons
  * 19h - Dîner
- * 22h - Soirée dansante
+ * Vers 23h-24h - Soirée dansante
  * 4h - Fin de la soirée
  
 # Dimanche 25/09
 
-Pour ceux qui le souhaitent, un brunch sera servi à partir de 10h à la Ferme du Couvent.
+Pour ceux qui le souhaitent, un brunch sera servi à partir de 10h à la Ferme du Couvent. Si vous souhaitez participer, envoyez un message aux mariés avant début Septembre !

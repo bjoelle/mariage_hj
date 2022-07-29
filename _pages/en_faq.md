@@ -7,7 +7,7 @@ permalink: /en_faq
 
 *How to dress ?*
 
-We don't have any special requirements ! Please avoid green dresses.
+We don't have any special requirements, though we would appreciate if you looked good ! Please also avoid green (as well as white, obviously) dresses.
 
 *Is there a wedding list ?*
 

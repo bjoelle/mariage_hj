@@ -7,7 +7,7 @@ permalink: /fr_faq
 
 *Comment s'habiller ?*
 
-Il n'y a pas de demandes particulières ! Néanmoins les robes vertes devraient être évitées.
+Il n'y a pas de demandes particulières, soyez juste beaux et belles ! Néanmoins les robes vertes (et blanches mais ça va sans le dire) devraient être évitées.
 
 *Y a t-il une liste de mariage ?*
 
