@@ -8,8 +8,6 @@ main:
     url: /fr_transport
   - title: "Logement"
     url: /fr_logement
-#  - title: "Liste de mariage"
-#    url: /fr_liste/
   - title: "FAQ"
     url: /fr_faq
   - title: "English version"
@@ -22,8 +20,6 @@ main:
     url: /en_transport
   - title: "Accommodation"
     url: /en_accom
-#  - title: "Wedding list"
-#    url: /en_list
   - title: "FAQ"
     url: /en_faq
   - title: "Version française"
