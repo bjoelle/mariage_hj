@@ -1,6 +1,5 @@
 # main links
 main:
-languages: 
 - language: "fr" 
   links:
   - title: "Programme"
@@ -13,7 +12,7 @@ languages:
 #    url: /fr_liste/
   - title: "FAQ"
     url: /fr_faq/
-  - title: "en"
+  - title: "En"
     url: /en_home
 - language: "en" 
   links:
@@ -27,5 +26,5 @@ languages:
 #    url: /en_list
   - title: "FAQ"
     url: /en_faq
-  - title: "fr"
-    url: /fr_home
+  - title: "Fr"
+    url: /

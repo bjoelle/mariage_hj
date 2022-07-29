@@ -12,7 +12,7 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
-          {%- for item in site.data.navigation.languages -%}
+          {%- for item in site.data.navigation.main -%}
             {% if item.language == page.lang %} 
               {% for link in item.links %} 
                 <li class="masthead__menu-item">

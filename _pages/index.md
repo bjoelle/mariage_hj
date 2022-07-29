@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 lang: fr
-permalink: /fr_home
+permalink: /
 ---
 
 Hoel LE GALLO et Joëlle BARIDO-SOTTANI ont le plaisir de vous convier à leur mariage !
