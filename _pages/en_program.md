@@ -16,4 +16,4 @@ permalink: /en_program
  
 ## Sunday 25/09
 
-For those who would like to, a brunch will be served from 10am at la Ferme du Couvent. If you would like to partake, please send a message to the newlyweds before the beginning of September !
+For those who would like to, a brunch will be served from 10am at la Ferme du Couvent. If you would like to partake, please send a message to the newlyweds before the beginning of September !
