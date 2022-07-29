@@ -10,3 +10,7 @@ The address of the Ferme du Couvent is 484 Rue de la Chapelle Gauthier, 77720 Br
 From Paris, Melun can be reached by train (TER or Transilien line R) from the station Gare de Lyon or by RER (line D) from the station Gare du Nord.
 
 Finally, a bus (line 47) connects Melun to La Chapelle-Gauthier, which is about 30 minutes away by foot from Bréau. However, this bus stops at 21h. 
+
+<p align="center">
+  <img src="assets/images/map.png" />
+</p>
