@@ -11,7 +11,7 @@ Il n'y a pas de demandes particulières, soyez juste beaux et belles ! Néanmoi
 
 *Y a t-il une liste de mariage ?*
 
-Votre présence est la seule chose dont nous avons besoin ! Cependant si vous le souhaitez vous pouvez nous faire un cadeau à cette [adresse](https://www.milirose.com/liste-cadeaux-359607.html).
+Votre présence est la seule chose dont nous avons besoin ! Cependant si vous le souhaitez vous pouvez nous faire un cadeau à cette [adresse](https://www.milirose.com/liste-cadeaux-359607.html). *NB:* la participation se fait en deux étapes, d'abord sélectionnez le cadeau que vous souhaitez réserver, puis ajoutez le montant du cadeau directement à la cagnotte. Merci !
 
 *Et pour le Covid ?*
 

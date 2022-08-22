@@ -11,7 +11,7 @@ We don't have any special requirements, though we would appreciate if you looked
 
 *Is there a wedding list ?*
 
-The only thing we truly need is your presence ! However if you would like to send a gift you can do so at this [address](https://www.milirose.com/liste-cadeaux-359607.html).
+The only thing we truly need is your presence ! However if you would like to send a gift you can do so at this [address](https://www.milirose.com/liste-cadeaux-359607.html). *NB:* the process is in two steps, first pick a gift you like, then add the gift amount directly to the money pot. Thanks ! 
 
 *And what about Covid ?*
 
